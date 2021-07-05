@@ -1,7 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/pplib",
   "1.16.4": {
-    "1.0.0-1.0": "This mod haas Update!!"
+    "1.0.0-pre1.0": "The latest version has been released !!",
+    "1.0.0-1.0": "The latest version!"
   },
   "promos": {
     "1.16.4-latest": "1.0.0-1.0",
