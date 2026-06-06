@@ -14,8 +14,8 @@
     "1.2+mc1.20.1": "Fix Totem 871 and Rainbow color, dirtem's crazy effects, changed license to MIT."
   },
   "1.21.11": {
-    "1.0+mc1.21.11": "Release.",
-    "1.1+mc1.21.11": "Add Totems and start to use Mixin.",
-    "1.2+mc1.21.11": "In addition to the changes in 1.2+mc1.20.1, added config and update notice."
+    "1.0": "Release.",
+    "1.1": "Add Totems and start to use Mixin.",
+    "1.2": "In addition to the changes in 1.2+mc1.20.1, added config, version notation and update notice."
   }
 }
