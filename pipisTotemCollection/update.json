@@ -15,6 +15,7 @@
   },
   "1.21.11": {
     "1.0+mc1.21.11": "Release.",
-    "1.1+mc1.21.11": "Add Totems and start to use Mixin."
+    "1.1+mc1.21.11": "Add Totems and start to use Mixin.",
+    "1.2+mc1.21.11": "In addition to the changes in 1.2+mc1.20.1, added config and update notice."
   }
 }
